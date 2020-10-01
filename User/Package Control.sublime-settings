@@ -5,6 +5,10 @@
 	],
 	"installed_packages":
 	[
-		"PackageResourceViewer"
+		"EditorConfig",
+		"EditorConfigSnippets",
+		"Package Control",
+		"PackageResourceViewer",
+		"Stupid Indent"
 	]
 }

@@ -2,7 +2,6 @@
 	<tabTrigger>include</tabTrigger>
 	<content><![CDATA[
 #include <bits/stdc++.h>
-
 using namespace std;
 
 int main() {

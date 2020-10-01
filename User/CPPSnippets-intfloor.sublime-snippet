@@ -1,7 +1,7 @@
 <snippet>
 	<tabTrigger>floor</tabTrigger>
 	<content><![CDATA[
-floor({1: Number})$0
+floor(${1: Number})$0
 ]]></content>
 	<scope>source.c++</scope>
 	<description>CPP Floor</description>
