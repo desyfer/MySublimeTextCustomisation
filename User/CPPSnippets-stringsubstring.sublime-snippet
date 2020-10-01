@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>substr</tabTrigger>
+	<content><![CDATA[
+$1.substr(${2: Start Index}, ${3: End Index})$0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP String Sub String</description>
+</snippet>

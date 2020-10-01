@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>return</tabTrigger>
+	<content><![CDATA[
+return $0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Return</description>
+</snippet>

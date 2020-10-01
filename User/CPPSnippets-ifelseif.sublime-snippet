@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>else if</tabTrigger>
+	<content><![CDATA[
+else if(${1: Condition}) {
+	$0;
+}
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Else If Statement</description>
+</snippet>

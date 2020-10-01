@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>string</tabTrigger>
+	<content><![CDATA[
+string $0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP String</description>
+</snippet>

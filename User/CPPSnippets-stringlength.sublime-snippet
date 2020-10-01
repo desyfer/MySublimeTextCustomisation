@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>length</tabTrigger>
+	<content><![CDATA[
+$1.length()$0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP String Length</description>
+</snippet>

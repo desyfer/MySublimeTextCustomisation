@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>sqrt</tabTrigger>
+	<content><![CDATA[
+sqrt(${1: Number})$0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Square Root</description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+	<tabTrigger>include</tabTrigger>
+	<content><![CDATA[
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+	$0
+	return 0;
+}
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP include</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<tabTrigger>/*</tabTrigger>
+	<content><![CDATA[
+/* ${1: Whole Comment} */
+$0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Whole Comment</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger></tabTrigger>
+	<content><![CDATA[
+$0Hello, ${1:this} is a ${2:snippet}.
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Custom Snippet</description>
+</snippet>

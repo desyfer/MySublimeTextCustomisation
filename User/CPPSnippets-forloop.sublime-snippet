@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>for</tabTrigger>
+	<content><![CDATA[
+for(int ${1:var}; ${2:limit}; ${3: incremenet}) {
+	$0;
+}
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP For Loop</description>
+</snippet>

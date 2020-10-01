@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>ceil</tabTrigger>
+	<content><![CDATA[
+ceil(${1: Number})$0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Ceiling</description>
+</snippet>

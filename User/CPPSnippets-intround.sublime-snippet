@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>round</tabTrigger>
+	<content><![CDATA[
+round(${1: Number})$0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Round Off</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>int</tabTrigger>
+	<content><![CDATA[
+int $0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Integer</description>
+</snippet>

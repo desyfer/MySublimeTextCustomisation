@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>else</tabTrigger>
+	<content><![CDATA[
+else {
+	$0;
+}
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Else Statement</description>
+</snippet>

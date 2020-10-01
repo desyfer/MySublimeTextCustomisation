@@ -1,0 +1,9 @@
+<snippet>
+	<tabTrigger>//</tabTrigger>
+	<content><![CDATA[
+// ${1:Line Comment}
+$0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Line Comment</description>
+</snippet>

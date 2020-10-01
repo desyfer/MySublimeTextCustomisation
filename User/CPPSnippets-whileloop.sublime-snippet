@@ -1,0 +1,10 @@
+<snippet>
+	<tabTrigger>while</tabTrigger>
+	<content><![CDATA[
+while(${1: condition}) {
+	$0;
+}
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP While Loop</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>const</tabTrigger>
+	<content><![CDATA[
+const $0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Constant</description>
+</snippet>

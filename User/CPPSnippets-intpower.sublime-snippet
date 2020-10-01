@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>pow</tabTrigger>
+	<content><![CDATA[
+pow(${1: Base}, ${2: Power})$0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Power</description>
+</snippet>

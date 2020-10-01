@@ -1,0 +1,8 @@
+<snippet>
+	<tabTrigger>double</tabTrigger>
+	<content><![CDATA[
+double $0
+]]></content>
+	<scope>source.c++</scope>
+	<description>CPP Double</description>
+</snippet>
